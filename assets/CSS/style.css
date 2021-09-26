@@ -128,7 +128,7 @@ html {
     position: relative;
     margin-top: 46px; /*Bằng chiều cao của header*/
     padding-top: 50%; /*Tỷ lể ảnh (Chiều rộng bằng 50% chiều dài)*/
-    background: url('/assets/img/slider/slider2.jpg') top center / cover no-repeat;
+    background: url('../img/slider/slider2.jpg') top center / cover no-repeat;
 }
 
 #slider .text-slider {
